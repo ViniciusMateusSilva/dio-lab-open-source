@@ -14,7 +14,7 @@
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Olá, eu sou o Vinicius! 👋
-Meu nome é Vinicius Mateus da Silva, tenho 18 anos atualmente e tenho o objetivo de me tornar um grande Programador. Tenho uma fascinação por tudo envolvendo tecnologia e uma empolgação enorme quando se trata de ver códigos e outras coisas feitas por mim dando certo. Atualmente estou cursando Analise e Desenvolvimento de Sistema e busco ter meu primeiro estágio na área de programação.
+Meu nome é Vinicius Mateus da Silva, tenho 18 anos atualmente e tenho o objetivo de me tornar um grande Programador. Tenho uma fascinação por tudo envolvendo tecnologia e uma empolgação enorme quando se trata de ver códigos e outras coisas feitas por mim dando certo. Atualmente estou cursando Analise e Desenvolvimento de Sistema na Uniso - Universidade de Sorocaba e busco ter meu primeiro estágio na área de programação.
 
 ## 🚀 Sobre mim
 Sou um jovem nascido em Mairinque interior de São Paulo, desde criança tive convivio com computadores e video-games, o que me fez criar uma paixão e carinho por tecnologias e jogos, e é claro que eu pensava em trabalhar com computadores quando crescesse. No meu tempo livre gosto de praticar esportes como Academia e Vôlei, utilizo eles como valvula de escape para os problemas e estresse do dia a dia, e não consigo viver sem musica, pois a musica me acalma. Sou um jovem focado e determinado em conquistar meus objetivos na vida e farei tudo que for possivel para que meus sonhos se realizem.
